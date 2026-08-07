@@ -1,5 +1,5 @@
 
-public class Pratice4 {
+public class prg3 {
 
     public static void main(String[] args) {
 
